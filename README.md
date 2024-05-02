@@ -1,28 +1,15 @@
 # BookAStay - Web Application
 
-## Introduction
-
-The hospitality industry is crucial for global travel and accommodation, but finding the right hotel amidst numerous options can be overwhelming. BookAStay simplifies this process with a user-friendly web platform, enabling travelers to efficiently search, compare, and book hotels tailored to their needs. Developed to meet the increasing demand for streamlined hotel booking experiences, BookAStay utilizes cutting-edge technologies for a seamless user experience, incorporating unique features inspired by market research and industry leaders.
-
-This project proposal outlines the development process and core functionalities of BookAStay, emphasizing its benefits for both travelers and hoteliers. By the end, readers will understand the platform's purpose and expected outcomes, offering a comprehensive solution to the challenges of hotel booking in the modern age.
-
 - _Last Modification Date_: 11 / 04 / 2024
 - _Live URL_: <https://book-a-stay.netlify.app/>
 
-## Authors
-
-- [Aman Desai](amandesai@dal.ca)
-- [Shyamal Prajapati](sgp@dal.ca)
-- [Nikunj Hudka](nk856850@dal.ca)
-- [Dharmil Shah](dharmilnshah@dal.ca)
-- [Akshat Shah](akshat.shah@dal.ca)
-- [Divyank Shah](dv491067@dal.ca)
-
 ## Introduction
 
-The hospitality industry, particularly hotel booking services, plays a vital role in facilitating travel and accommodation for individuals worldwide.
+The hospitality industry, particularly hotel booking services, plays a vital role in facilitating travel and accommodation for individuals worldwide. However, amidst the plethora of options available, finding the perfect hotel that meets one's preferences and requirements can be a daunting task. BookAStay aims to address this challenge by providing a user-friendly web platform where travelers can efficiently search, compare, and book hotels according to their specific needs.
 
-BookAStay aims to address this challenge by providing a user friendly web platform where travellers can efficiently search, compare, and book hotels according to their specific needs.
+In response to the growing demand for streamlined hotel booking experiences, our team has developed BookAStay, a comprehensive solution designed to enhance the hotel booking process for both leisure and business travelers. Leveraging the latest technologies and industry best practices, BookAStay offers a seamless and intuitive user experience, empowering travelers to find their ideal accommodations with ease.
+
+Through extensive market research and analysis of existing hotel booking platforms, we have identified key features and functionalities that are most valued by travelers. Drawing inspiration from successful industry leaders and incorporating innovative ideas, BookAStay introduces unique features tailored to meet the diverse needs of modern travelers.
 
 Below are some objectives of our application:
 
@@ -32,6 +19,15 @@ Below are some objectives of our application:
 - Transparent Reviews and Ratings
 - Service Provider Verification
 - Secure Payment Gateway
+
+## Authors
+
+- [Aman Desai](amandesai@dal.ca)
+- [Shyamal Prajapati](sgp@dal.ca)
+- [Nikunj Hudka](nk856850@dal.ca)
+- [Dharmil Shah](dharmilnshah@dal.ca)
+- [Akshat Shah](akshat.shah@dal.ca)
+- [Divyank Shah](dv491067@dal.ca)
 
 ## Prerequisite
 
