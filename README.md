@@ -7,7 +7,7 @@ The hospitality industry is crucial for global travel and accommodation, but fin
 This project proposal outlines the development process and core functionalities of BookAStay, emphasizing its benefits for both travelers and hoteliers. By the end, readers will understand the platform's purpose and expected outcomes, offering a comprehensive solution to the challenges of hotel booking in the modern age.
 
 - _Last Modification Date_: 11 / 04 / 2024
-- _Live URL_: <https://final-book-a-stay.netlify.app/>
+- _Live URL_: <https://book-a-stay.netlify.app/>
 
 ## Authors
 
@@ -41,6 +41,8 @@ Below are some objectives of our application:
 ## Deployment
 
 Our backend services are deployed on render repository, and frontend web application is hosted on Netlify.
+
+_Note: The backend in deployed on free tier of render, it may take some time to load the data for the first time as the server goes to sleep after few minutes of inactivity._
 
 ## Installation & Usage steps
 
